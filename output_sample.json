@@ -1,0 +1,809 @@
+{
+  "arrangement": [
+    {
+      "page": 15,
+      "x-coord": 0.93,
+      "y-coord": 0.88
+    },
+    {
+      "page": 15,
+      "x-coord": 0.63,
+      "y-coord": 0.9
+    },
+    {
+      "page": 16,
+      "x-coord": 0.46,
+      "y-coord": 0.3
+    },
+    {
+      "page": 16,
+      "x-coord": 0.13,
+      "y-coord": 0.31
+    },
+    {
+      "page": 17,
+      "x-coord": 0.34,
+      "y-coord": 0.52
+    }
+  ],
+  "ARRANGEMENTS": [
+    {
+      "page": 15,
+      "x-coord": 0.93,
+      "y-coord": 0.88
+    },
+    {
+      "page": 15,
+      "x-coord": 0.64,
+      "y-coord": 0.9
+    },
+    {
+      "page": 16,
+      "x-coord": 0.46,
+      "y-coord": 0.3
+    },
+    {
+      "page": 16,
+      "x-coord": 0.14,
+      "y-coord": 0.31
+    },
+    {
+      "page": 17,
+      "x-coord": 0.34,
+      "y-coord": 0.52
+    }
+  ],
+  "arrangements": [
+    {
+      "page": 15,
+      "x-coord": 0.93,
+      "y-coord": 0.88
+    },
+    {
+      "page": 15,
+      "x-coord": 0.64,
+      "y-coord": 0.9
+    },
+    {
+      "page": 16,
+      "x-coord": 0.46,
+      "y-coord": 0.3
+    },
+    {
+      "page": 16,
+      "x-coord": 0.14,
+      "y-coord": 0.31
+    },
+    {
+      "page": 17,
+      "x-coord": 0.34,
+      "y-coord": 0.52
+    }
+  ],
+  "art": [
+    {
+      "page": 15,
+      "x-coord": 0.46,
+      "y-coord": 0.39
+    },
+    {
+      "page": 15,
+      "x-coord": 0.18,
+      "y-coord": 0.41
+    },
+    {
+      "page": 15,
+      "x-coord": 0.4,
+      "y-coord": 0.53
+    },
+    {
+      "page": 15,
+      "x-coord": 0.69,
+      "y-coord": 0.06
+    },
+    {
+      "page": 15,
+      "x-coord": 0.61,
+      "y-coord": 0.13
+    },
+    {
+      "page": 15,
+      "x-coord": 0.79,
+      "y-coord": 0.16
+    },
+    {
+      "page": 15,
+      "x-coord": 0.7,
+      "y-coord": 0.24
+    },
+    {
+      "page": 15,
+      "x-coord": 0.9,
+      "y-coord": 0.25
+    },
+    {
+      "page": 15,
+      "x-coord": 0.93,
+      "y-coord": 0.46
+    },
+    {
+      "page": 15,
+      "x-coord": 0.65,
+      "y-coord": 0.47
+    },
+    {
+      "page": 15,
+      "x-coord": 0.61,
+      "y-coord": 0.57
+    },
+    {
+      "page": 15,
+      "x-coord": 0.62,
+      "y-coord": 0.61
+    },
+    {
+      "page": 15,
+      "x-coord": 0.83,
+      "y-coord": 0.67
+    },
+    {
+      "page": 15,
+      "x-coord": 0.69,
+      "y-coord": 0.73
+    },
+    {
+      "page": 15,
+      "x-coord": 0.81,
+      "y-coord": 0.79
+    },
+    {
+      "page": 15,
+      "x-coord": 0.79,
+      "y-coord": 0.85
+    },
+    {
+      "page": 16,
+      "x-coord": 0.3,
+      "y-coord": 0.27
+    },
+    {
+      "page": 16,
+      "x-coord": 0.16,
+      "y-coord": 0.55
+    },
+    {
+      "page": 17,
+      "x-coord": 0.18,
+      "y-coord": 0.22
+    },
+    {
+      "page": 17,
+      "x-coord": 0.11,
+      "y-coord": 0.24
+    },
+    {
+      "page": 17,
+      "x-coord": 0.14,
+      "y-coord": 0.59
+    },
+    {
+      "page": 17,
+      "x-coord": 0.11,
+      "y-coord": 0.79
+    },
+    {
+      "page": 17,
+      "x-coord": 0.46,
+      "y-coord": 0.86
+    },
+    {
+      "page": 17,
+      "x-coord": 0.1,
+      "y-coord": 0.88
+    },
+    {
+      "page": 17,
+      "x-coord": 0.88,
+      "y-coord": 0.21
+    },
+    {
+      "page": 17,
+      "x-coord": 0.77,
+      "y-coord": 0.35
+    },
+    {
+      "page": 17,
+      "x-coord": 0.74,
+      "y-coord": 0.36
+    },
+    {
+      "page": 17,
+      "x-coord": 0.63,
+      "y-coord": 0.47
+    },
+    {
+      "page": 17,
+      "x-coord": 0.83,
+      "y-coord": 0.63
+    },
+    {
+      "page": 17,
+      "x-coord": 0.6,
+      "y-coord": 0.64
+    },
+    {
+      "page": 17,
+      "x-coord": 0.58,
+      "y-coord": 0.66
+    },
+    {
+      "page": 17,
+      "x-coord": 0.6,
+      "y-coord": 0.69
+    },
+    {
+      "page": 17,
+      "x-coord": 0.69,
+      "y-coord": 0.77
+    },
+    {
+      "page": 17,
+      "x-coord": 0.71,
+      "y-coord": 0.8
+    },
+    {
+      "page": 17,
+      "x-coord": 0.68,
+      "y-coord": 0.82
+    },
+    {
+      "page": 17,
+      "x-coord": 0.83,
+      "y-coord": 0.85
+    },
+    {
+      "page": 18,
+      "x-coord": 0.15,
+      "y-coord": 0.08
+    },
+    {
+      "page": 18,
+      "x-coord": 0.31,
+      "y-coord": 0.14
+    },
+    {
+      "page": 18,
+      "x-coord": 0.15,
+      "y-coord": 0.18
+    },
+    {
+      "page": 18,
+      "x-coord": 0.17,
+      "y-coord": 0.66
+    },
+    {
+      "page": 18,
+      "x-coord": 0.27,
+      "y-coord": 0.69
+    },
+    {
+      "page": 18,
+      "x-coord": 0.42,
+      "y-coord": 0.73
+    },
+    {
+      "page": 18,
+      "x-coord": 0.46,
+      "y-coord": 0.85
+    },
+    {
+      "page": 18,
+      "x-coord": 0.13,
+      "y-coord": 0.87
+    },
+    {
+      "page": 18,
+      "x-coord": 0.64,
+      "y-coord": 0.08
+    },
+    {
+      "page": 18,
+      "x-coord": 0.8,
+      "y-coord": 0.11
+    },
+    {
+      "page": 18,
+      "x-coord": 0.79,
+      "y-coord": 0.17
+    },
+    {
+      "page": 18,
+      "x-coord": 0.65,
+      "y-coord": 0.18
+    },
+    {
+      "page": 18,
+      "x-coord": 0.61,
+      "y-coord": 0.2
+    },
+    {
+      "page": 18,
+      "x-coord": 0.61,
+      "y-coord": 0.33
+    },
+    {
+      "page": 18,
+      "x-coord": 0.71,
+      "y-coord": 0.46
+    },
+    {
+      "page": 18,
+      "x-coord": 0.93,
+      "y-coord": 0.46
+    },
+    {
+      "page": 18,
+      "x-coord": 0.6,
+      "y-coord": 0.47
+    },
+    {
+      "page": 18,
+      "x-coord": 0.7,
+      "y-coord": 0.52
+    },
+    {
+      "page": 18,
+      "x-coord": 0.61,
+      "y-coord": 0.58
+    },
+    {
+      "page": 18,
+      "x-coord": 0.87,
+      "y-coord": 0.59
+    },
+    {
+      "page": 18,
+      "x-coord": 0.61,
+      "y-coord": 0.65
+    },
+    {
+      "page": 18,
+      "x-coord": 0.75,
+      "y-coord": 0.84
+    },
+    {
+      "page": 18,
+      "x-coord": 0.82,
+      "y-coord": 0.87
+    }
+  ],
+  "assessment": [
+    {
+      "page": 15,
+      "x-coord": 0.34,
+      "y-coord": 0.74
+    }
+  ],
+  "availability of resources": [
+    {
+      "page": 15,
+      "x-coord": 0.21,
+      "y-coord": 0.78
+    }
+  ],
+  "Best Interests of the Child": [
+    {
+      "page": 15,
+      "x-coord": 0.46,
+      "y-coord": 0.83
+    },
+    {
+      "page": 15,
+      "x-coord": 0.2,
+      "y-coord": 0.84
+    },
+    {
+      "page": 15,
+      "x-coord": 0.93,
+      "y-coord": 0.27
+    },
+    {
+      "page": 15,
+      "x-coord": 0.72,
+      "y-coord": 0.29
+    },
+    {
+      "page": 15,
+      "x-coord": 0.64,
+      "y-coord": 0.87
+    },
+    {
+      "page": 15,
+      "x-coord": 0.7,
+      "y-coord": 0.87
+    },
+    {
+      "page": 15,
+      "x-coord": 0.74,
+      "y-coord": 0.87
+    },
+    {
+      "page": 15,
+      "x-coord": 0.77,
+      "y-coord": 0.87
+    },
+    {
+      "page": 15,
+      "x-coord": 0.81,
+      "y-coord": 0.87
+    },
+    {
+      "page": 16,
+      "x-coord": 0.41,
+      "y-coord": 0.08
+    },
+    {
+      "page": 16,
+      "x-coord": 0.15,
+      "y-coord": 0.09
+    }
+  ],
+  "best interests of the child": [
+    {
+      "page": 15,
+      "x-coord": 0.46,
+      "y-coord": 0.83
+    },
+    {
+      "page": 15,
+      "x-coord": 0.2,
+      "y-coord": 0.84
+    },
+    {
+      "page": 15,
+      "x-coord": 0.93,
+      "y-coord": 0.27
+    },
+    {
+      "page": 15,
+      "x-coord": 0.72,
+      "y-coord": 0.29
+    },
+    {
+      "page": 15,
+      "x-coord": 0.64,
+      "y-coord": 0.87
+    },
+    {
+      "page": 15,
+      "x-coord": 0.7,
+      "y-coord": 0.87
+    },
+    {
+      "page": 15,
+      "x-coord": 0.74,
+      "y-coord": 0.87
+    },
+    {
+      "page": 15,
+      "x-coord": 0.77,
+      "y-coord": 0.87
+    },
+    {
+      "page": 15,
+      "x-coord": 0.81,
+      "y-coord": 0.87
+    },
+    {
+      "page": 16,
+      "x-coord": 0.41,
+      "y-coord": 0.08
+    },
+    {
+      "page": 16,
+      "x-coord": 0.15,
+      "y-coord": 0.09
+    }
+  ],
+  "arbitrator": [
+    {
+      "page": 16,
+      "x-coord": 0.37,
+      "y-coord": 0.78
+    },
+    {
+      "page": 17,
+      "x-coord": 0.2,
+      "y-coord": 0.75
+    }
+  ],
+  "arbitrators": [
+    {
+      "page": 16,
+      "x-coord": 0.37,
+      "y-coord": 0.78
+    },
+    {
+      "page": 17,
+      "x-coord": 0.21,
+      "y-coord": 0.75
+    }
+  ],
+  "Arbitrators": [
+    {
+      "page": 16,
+      "x-coord": 0.37,
+      "y-coord": 0.78
+    },
+    {
+      "page": 17,
+      "x-coord": 0.21,
+      "y-coord": 0.75
+    }
+  ],
+  "attempts": [
+    {
+      "page": 16,
+      "x-coord": 0.65,
+      "y-coord": 0.18
+    }
+  ],
+  "behaviour": [
+    {
+      "page": 16,
+      "x-coord": 0.63,
+      "y-coord": 0.69
+    }
+  ],
+  "animal": [
+    {
+      "page": 17,
+      "x-coord": 0.35,
+      "y-coord": 0.08
+    },
+    {
+      "page": 17,
+      "x-coord": 0.37,
+      "y-coord": 0.12
+    }
+  ],
+  "appropriateness": [
+    {
+      "page": 17,
+      "x-coord": 0.71,
+      "y-coord": 0.08
+    }
+  ],
+  "appropriateness of any family dispute resolution processes": [
+    {
+      "page": 17,
+      "x-coord": 0.71,
+      "y-coord": 0.08
+    },
+    {
+      "page": 17,
+      "x-coord": 0.78,
+      "y-coord": 0.08
+    },
+    {
+      "page": 17,
+      "x-coord": 0.81,
+      "y-coord": 0.08
+    },
+    {
+      "page": 17,
+      "x-coord": 0.86,
+      "y-coord": 0.08
+    },
+    {
+      "page": 17,
+      "x-coord": 0.92,
+      "y-coord": 0.08
+    },
+    {
+      "page": 17,
+      "x-coord": 0.64,
+      "y-coord": 0.09
+    }
+  ],
+  "Arbitration": [
+    {
+      "page": 17,
+      "x-coord": 0.2,
+      "y-coord": 0.65
+    },
+    {
+      "page": 17,
+      "x-coord": 0.44,
+      "y-coord": 0.75
+    },
+    {
+      "page": 17,
+      "x-coord": 0.11,
+      "y-coord": 0.76
+    }
+  ],
+  "arbitration": [
+    {
+      "page": 17,
+      "x-coord": 0.2,
+      "y-coord": 0.65
+    },
+    {
+      "page": 17,
+      "x-coord": 0.44,
+      "y-coord": 0.75
+    },
+    {
+      "page": 17,
+      "x-coord": 0.11,
+      "y-coord": 0.76
+    }
+  ],
+  "arbitrations": [
+    {
+      "page": 17,
+      "x-coord": 0.44,
+      "y-coord": 0.75
+    },
+    {
+      "page": 17,
+      "x-coord": 0.11,
+      "y-coord": 0.76
+    }
+  ],
+  "assistance": [
+    {
+      "page": 17,
+      "x-coord": 0.33,
+      "y-coord": 0.62
+    }
+  ],
+  "balance": [
+    {
+      "page": 17,
+      "x-coord": 0.62,
+      "y-coord": 0.5
+    },
+    {
+      "page": 18,
+      "x-coord": 0.45,
+      "y-coord": 0.25
+    },
+    {
+      "page": 18,
+      "x-coord": 0.11,
+      "y-coord": 0.27
+    },
+    {
+      "page": 18,
+      "x-coord": 0.28,
+      "y-coord": 0.52
+    }
+  ],
+  "BC": [
+    {
+      "page": 17,
+      "x-coord": 0.84,
+      "y-coord": 0.51
+    },
+    {
+      "page": 17,
+      "x-coord": 0.86,
+      "y-coord": 0.66
+    },
+    {
+      "page": 18,
+      "x-coord": 0.61,
+      "y-coord": 0.74
+    }
+  ],
+  "BC Supreme Court": [
+    {
+      "page": 17,
+      "x-coord": 0.9,
+      "y-coord": 0.66
+    },
+    {
+      "page": 17,
+      "x-coord": 0.58,
+      "y-coord": 0.67
+    }
+  ],
+  "benefit": [
+    {
+      "page": 17,
+      "x-coord": 0.74,
+      "y-coord": 0.86
+    },
+    {
+      "page": 18,
+      "x-coord": 0.27,
+      "y-coord": 0.22
+    }
+  ],
+  "benefits": [
+    {
+      "page": 17,
+      "x-coord": 0.74,
+      "y-coord": 0.86
+    },
+    {
+      "page": 18,
+      "x-coord": 0.27,
+      "y-coord": 0.22
+    }
+  ],
+  "benefits of mediation": [
+    {
+      "page": 17,
+      "x-coord": 0.79,
+      "y-coord": 0.86
+    }
+  ],
+  "approach": [
+    {
+      "page": 18,
+      "x-coord": 0.13,
+      "y-coord": 0.33
+    }
+  ],
+  "BCSC": [
+    {
+      "page": 18,
+      "x-coord": 0.62,
+      "y-coord": 0.74
+    }
+  ],
+  "best practices": [
+    {
+      "page": 18,
+      "x-coord": 0.75,
+      "y-coord": 0.74
+    },
+    {
+      "page": 18,
+      "x-coord": 0.8,
+      "y-coord": 0.74
+    }
+  ],
+  "binding agreement": [
+    {
+      "page": 18,
+      "x-coord": 0.81,
+      "y-coord": 0.49
+    },
+    {
+      "page": 18,
+      "x-coord": 0.79,
+      "y-coord": 0.53
+    },
+    {
+      "page": 18,
+      "x-coord": 0.87,
+      "y-coord": 0.53
+    },
+    {
+      "page": 18,
+      "x-coord": 0.92,
+      "y-coord": 0.58
+    },
+    {
+      "page": 18,
+      "x-coord": 0.63,
+      "y-coord": 0.59
+    }
+  ],
+  "binding decision": [
+    {
+      "page": 18,
+      "x-coord": 0.25,
+      "y-coord": 0.79
+    },
+    {
+      "page": 18,
+      "x-coord": 0.32,
+      "y-coord": 0.79
+    }
+  ]
+}

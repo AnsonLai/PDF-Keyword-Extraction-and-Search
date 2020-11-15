@@ -42,7 +42,7 @@ natural_language_understanding = NaturalLanguageUnderstandingV1(
 )
 natural_language_understanding.set_service_url(service_url)
 
-for j in range(i):
+for j in range(i+1):
   text = open("sample_split" + str(j) + ".txt", "r", encoding="utf-8").read()
   response = natural_language_understanding.analyze(text = text, features=Features(keywords=KeywordsOptions(limit=4500))).get_result()
 
@@ -51,10 +51,10 @@ for j in range(i):
   n = json_file.write(ibm_output)
   json_file.close()
 
-# PARSE JSON FILES FOR KEYWORDS
+PARSE JSON FILES FOR KEYWORDS
 keywords = []
 
-for k in range(i):
+for k in range(i+1):
   json_file = open("ibm_output_" + str(k) + ".json", "r", encoding="utf-8").read()
   json_output = json.loads(json_file)
   for keyword in json_output['keywords']:
@@ -72,18 +72,18 @@ keywords = sorted(list(set(keywords)), key=str.lower)
 keyword_locations ={}
 doc = fitz.open('sample.pdf')
 
-for page in doc:
+for page in doc.pages(14, 18, 1):
   page_rect = page.MediaBox
   # TODO: May manually offset to match printed page numbers
-  page_num = page.number
+  page_num = page.number + 1
 
-  for keyword in keywords:
+  for keyword in keywords[200:500]:
     locations = []
     rect_list = page.searchFor(keyword)
     for rect in rect_list:
       location = {}
-      x_coord = ((rect.x1 - rect.x0)/2)/page_rect.x1
-      y_coord = ((rect.y1 - rect.y0)/2)/page_rect.y1
+      x_coord = round(((rect.x1 + rect.x0)/2)/page_rect.x1, 2)
+      y_coord = round(((rect.y1 + rect.y0)/2)/page_rect.y1, 2)
       location['page'] = page_num
       location['x-coord'] = x_coord
       location['y-coord'] = y_coord
