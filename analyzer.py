@@ -19,7 +19,7 @@ text_file = open("sample.txt", "w", encoding="utf-8")
 n = text_file.write(plain_text)
 text_file.close()
 
-# SPLIT INTO 50,000 CHUNKS
+# SPLIT INTO 50,000 CHUNKS (required for IBM Watson)
 i = 0
 while plain_text != '':
   split_plain_text = ''
@@ -43,7 +43,6 @@ natural_language_understanding = NaturalLanguageUnderstandingV1(
 natural_language_understanding.set_service_url(service_url)
 
 for j in range(i):
-
   text = open("sample_split" + str(j) + ".txt", "r", encoding="utf-8").read()
   response = natural_language_understanding.analyze(text = text, features=Features(keywords=KeywordsOptions(limit=4500))).get_result()
 
@@ -75,7 +74,7 @@ doc = fitz.open('sample.pdf')
 
 for page in doc:
   page_rect = page.MediaBox
-  # TODO: May mannually offset to match printed page numbers
+  # TODO: May manually offset to match printed page numbers
   page_num = page.number
 
   for keyword in keywords:
