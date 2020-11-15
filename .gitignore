@@ -1,4 +1,9 @@
 .vscode/
+sample.pdf
+sample.txt
+SECRETS.py
+ibm*
+sample*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
